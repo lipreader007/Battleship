@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tiVSL35wbX/GdUgqYtahA1v8B99Cg3Du+zaSNVz5ZpSA96jltD9uNQy8qKopCV32y6Wnqr7CWWOPI4grc+nlMg==",
+  "success": true,
+  "projectFilePath": "D:\\ProSource\\Battleship\\Battleship.API\\Battleship.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Glenn Aorus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Glenn Aorus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Glenn Aorus\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Glenn Aorus\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Glenn Aorus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Glenn Aorus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
